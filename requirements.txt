@@ -3,3 +3,5 @@ openai
 langchain
 tiktoken
 chromadb
+pypdf
+pinecone-client
